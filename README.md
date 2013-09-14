@@ -1,4 +1,5 @@
 www_iwdd_net
 ============
 
-www.iwdd.net
+http://www.iwdd.net
+のサイトを構築するためのレポジトリです。
